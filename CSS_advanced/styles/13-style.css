@@ -54,7 +54,7 @@ a[href]:hover {
     text-decoration: underline;
 }
 
-a[href]:activate {
+a[href]:active {
     background-color: var(--color-light-grey);
 }
 
